@@ -80,12 +80,14 @@ xnor(z,a,b);
 endmodule
 ``` 
 **Logic symbol & Truthtable**
-
+![Output](https://github.com/Bharathymurugan/study-of-basic-gates/blob/main/logicgates1.jpg?raw=true)
 
 **RTL realization Output:** 
 ![Output](https://github.com/Bharathymurugan/study-of-basic-gates/blob/main/Screenshot%202026-03-15%20162525.png?raw=true)
 **RTL**
 ![Output](https://github.com/Bharathymurugan/study-of-basic-gates/blob/main/Screenshot%202026-03-15%20163048.png?raw=true)
 **Result:**
+ Program for logic gates and verify its truth table in quartus using Verilog programming done successfully
+
 
 
