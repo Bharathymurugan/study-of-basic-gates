@@ -63,12 +63,24 @@ Y= A⊕B
 
 
 **PROGRAM**
-
+```
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
- 
+ Developed by: Bharathy M
+ RegisterNumber: 212225040046/ 25013139
+ module expt1(a,b,c,d,e);
+input a,b;
+output c,d,e;
+and (c,a,b);
+or(d,a,b);
+xor(e,a,b);
+nand(x,a,b);
+nor(y,a,b);
+xnor(z,a,b);
+endmodule
+``` 
 **Logic symbol & Truthtable**
+
 
 **RTL realization Output:** 
 
